@@ -27,10 +27,10 @@ Mercy的代码库是一个个人代码参考库，用于保存一些曾经写过
 
 ---
 
-> 🐎的ChatGPT智障一个我服了这个南辕北辙的东西
+🐎的ChatGPT智障一个我服了这个南辕北辙的狗东西
 
 ---
 
-> GitHub: [Mercy CodeSource](#https://github.com/Baakarshan/CodeSource)
+GitHub: [Mercy CodeSource](#https://github.com/Baakarshan/CodeSource)
 
 ---
