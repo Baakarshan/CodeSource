@@ -7,7 +7,6 @@ import sys
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 # 整体代码说明
-# 首先ChatGPT真是人类的好帮手 先给你点个赞 然后 你ChatGPT就是个傻逼 听不懂人话 我澡称冯了哥福的 智障一个。
 # 这段代码是一个用于爬取某网站通知页面及其附件的程序。它通过多线程处理加快了爬取速度。以下是代码实现的主要步骤和使用的知识点：
 #
 # 创建目录：用于存储下载的文件。
