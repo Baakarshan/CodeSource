@@ -1,3 +1,4 @@
+---
 ### Mercy's CodeSource 库介绍
 
 #### 简介
@@ -30,4 +31,6 @@ Mercy的代码库是一个个人代码参考库，用于保存一些曾经写过
 
 ---
 
-GitHub: [Mercy CodeSource](#https://github.com/Baakarshan/CodeSource)
+> GitHub: [Mercy CodeSource](#https://github.com/Baakarshan/CodeSource)
+
+---
